@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iq"]
+	path = iq
+	url = https://github.com/tvpham/iq
+	shallow = true
+	registered = true
